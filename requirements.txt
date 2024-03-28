@@ -5,5 +5,7 @@ tiktoken
 python-dotenv
 langchain-openai
 langchain_community
+langchain-text-splitters
 unstructured
 black
+sentence-transformers

@@ -15,6 +15,9 @@ setup(
         "langchain_community",
         "unstructured",
         "black",
+        "langchain-text-splitters",
+        "chromadb",
+        "sentence-transformers",
     ],
     packages=find_packages(),
 )
