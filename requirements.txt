@@ -3,3 +3,7 @@ openai
 langchain
 tiktoken
 python-dotenv
+langchain-openai
+langchain_community
+unstructured
+black
